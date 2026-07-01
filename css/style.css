@@ -120,8 +120,8 @@ img { max-width: 100%; display: block; }
 }
 
 .hero {
-  padding-top: 66px;
-  padding-bottom: 54px;
+  padding-top: 24px;
+  padding-bottom: 44px;
 }
 
 .hero-grid {
